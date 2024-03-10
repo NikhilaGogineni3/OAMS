@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.logo-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.logo {
+  height: 100px; /* Adjust the height as needed */
+}
+
+.navbar {
+  position: relative; /* Ensure relative positioning for absolute positioning of logo */
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 20px;
+}
+
+.nav-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+/* Other styles as needed */

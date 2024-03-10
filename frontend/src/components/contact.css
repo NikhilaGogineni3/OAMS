@@ -1,0 +1,28 @@
+/* Style for the container */
+.container {
+    margin-top: 50px;
+  }
+  
+  /* Style for the paper elements */
+  .paper {
+    padding: 20px;
+    height: 100%;
+  }
+  
+  /* Style for the contact form */
+  .contact-form {
+    padding: 20px;
+  }
+  
+  /* Style for the submit button */
+  .submit-btn {
+    margin-top: 20px;
+  }
+  
+  /* Media query for responsiveness */
+  @media (max-width: 600px) {
+    .container {
+      margin-top: 20px;
+    }
+  }
+  

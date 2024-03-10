@@ -1,0 +1,25 @@
+/* FAQ.css */
+
+.faq-container {
+    text-align: center; /* Align content to the center */
+    font-family: 'Roboto', sans-serif; /* Use a custom font */
+  }
+  
+  h1 {
+    font-weight: bold; /* Bold font for main headings */
+  }
+  
+  h2 {
+    font-weight: 600; /* Semi-bold font for questions */
+    margin-bottom: 20px; /* Add margin between headings and question-answer pairs */
+  }
+  
+  .question {
+    font-weight: 600; /* Semi-bold font for questions */
+  }
+  
+  .answer {
+    font-weight: normal; /* Normal font for answers */
+    margin-bottom: 15px; /* Add margin between question-answer pairs */
+  }
+  
